@@ -1,0 +1,18 @@
+/*.a{*/
+/*    */
+
+/*}*/
+/*h2{z-index: 99;*/
+/*    color: darkred ;*/
+/*    !*font-size: 20px;*!*/
+/*}*/
+.b {
+    font-size: 50px;
+    color: powderblue;
+}
+
+body {
+    background: url("../img/preview.jpg");
+    /*background: url("../img/sunshine.jpg");*/
+    background-size: 100% 100%;
+}
